@@ -1,4 +1,4 @@
 [submodule "all_collections"]
 	path = all_collections
-	url = github.com/alexpoulis/all_collections.git
+	url = https://github.com/alexpoulis/all_collections.git
 	
